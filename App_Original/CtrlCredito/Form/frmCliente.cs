@@ -51,6 +51,7 @@ namespace CtrldeCredito
             objCliente.setAtributos(
                 tbDocNumber.Text, tbNombre.Text, tbCelular.Text, "", tbDetalle.Text, '0'
             );
+            Console.WriteLine("AddPersonatoDb()");
             if (objCliente.Insertar() == -1)
             {     // Error al intentar ingresar datos a mysql.
                 MessageBox.Show(ALERT_EXIST, "ADVERTENCIA",
@@ -100,7 +101,7 @@ namespace CtrldeCredito
                  return;
            }
             objCliente = new clsPersona(this.tbDocNumber.Text);
-            if ( objCliente.getCoincidencia()!= "")
+            if ( objCliente.getCoincidencia()== "")
             {
                 AddPersonatoDb();
             }
