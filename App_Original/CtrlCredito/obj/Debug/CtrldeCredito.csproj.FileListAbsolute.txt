@@ -1,0 +1,150 @@
+c:\users\ehermza\documents\visual studio 2012\Projects\CtrldeCredito\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\Trabajo\ML\PROYECTOS\Punto NET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\bin\Debug\MySql.Data.dll
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmTarjetaReader.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- bckp20140801\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\bin\Debug\MySql.Data.dll
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.frmListenerMarceloApp.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- App\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\MySql.Data.dll
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmListenerMarceloApp.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\bin\Debug\MySql.Data.dll
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.frmListenerMarceloApp.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- BCKP20140820\CtrldeCredito- SocketApp\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\bin\Debug\MySql.Data.dll
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmCalendario.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmListenerMarceloApp.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.frmListRecarga.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito- - copia\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\bin\Debug\CtrldeCredito.exe.config
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\bin\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\bin\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\bin\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\bin\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmCalendario.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmInicio.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmListRecarga.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmTicket.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.Properties.Resources.resources
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.exe.manifest
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.application
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.exe
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.pdb
+D:\TRABAJO\ML\PROYECTOS\PtoNET\AUTOLAVADO\CtrldeCredito-\CtrldeCredito\obj\Debug\CtrldeCredito.frmLectorTarjeta.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmActividad.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmAddCredito.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmCalendario.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmClaveAdmin.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmCliente.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmLectorTarjeta.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmConfigurarPto.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmListRecarga.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.frmTicket.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.csproj.GenerateResource.Cache
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\bin\Debug\CtrlCredito.exe.config
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\bin\Debug\CtrlCredito.exe.manifest
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\bin\Debug\CtrlCredito.application
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\bin\Debug\CtrlCredito.exe
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\bin\Debug\CtrlCredito.pdb
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrldeCredito.csprojResolveAssemblyReference.cache
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrlCredito.Properties.Resources.resources
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrlCredito.exe.manifest
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrlCredito.application
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrlCredito.exe
+D:\TRABAJO\MARCELO\PROYECTOS\PtoNET\AUTOLAVADO\Ctrl Credito Autolavado\CtrldeCredito\obj\Debug\CtrlCredito.pdb
